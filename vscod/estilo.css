@@ -1,0 +1,22 @@
+body{
+    background-color: white; 
+        border:solid yellow 4px;
+        margin:5px;
+        padding:40px;
+    }
+    
+    h1{
+        font-size: 50px;
+img{
+    widows: 200px;
+    height: 200px;
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#preto{
+    background-color: black;
+}
+.preenchimento{
+    padding: 30px;
+}
